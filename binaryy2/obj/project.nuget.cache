@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "0fbVCUacWmx0UBL0kNKMcQ2x4Q3C718kxjoJIelKAT3NW95rfkmDwp9ymFlWGCe+QRZ+fa4z+MLR2175H22nhw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\fokus\\source\\repos\\binaryy2\\binaryy2\\binaryy2.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\fokus\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.5\\microsoft.netcore.app.host.win-x64.6.0.5.nupkg.sha512",
+    "C:\\Users\\fokus\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.5\\microsoft.netcore.app.ref.6.0.5.nupkg.sha512"
+  ],
+  "logs": []
+}
